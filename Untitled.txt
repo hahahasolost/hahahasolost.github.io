@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	</head>
+
+	<body>
+
+
+		<a class="weatherwidget-io" href="https://forecast7.com/en/38d94n9d03/sao-joao-dos-montes/" data-label_1="home" 
+			data-label_2="weather" data-font="Monaco" data-icons="Climacons Animated" data-theme="beige" data-basecolor="#f9eadd" 			
+			data-textcolor="#deaa27" data-highcolor="#deaa27" data-lowcolor="#deaa27" data-suncolor="#fefaf2" data-mooncolor="#fefaf2" data-cloudcolor="#fefaf2" 
+			data-raincolor="#8f6854" data-snowcolor="#8f6854" >home weather</a>
+	<script>
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+	</script>
+
+	</body>
+
+</html>
